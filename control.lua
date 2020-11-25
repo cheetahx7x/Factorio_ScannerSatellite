@@ -12,7 +12,6 @@ function scan(position,surface)
             surface.request_to_generate_chunks({chunk.x,chunk.y},0)
             surface.force_generate_chunk_requests()
             game.forces["player"].chart(surface,chunk.area)
-            game.print("x: "..chunk.x.."  y: "..chunk.y)
         end
     end
 end
