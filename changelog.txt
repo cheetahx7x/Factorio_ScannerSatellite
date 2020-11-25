@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2020.11.22
+  Modding:
+    - Added settings to change the scan radius.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2020.11.24
+  Modding:
+    - Removed the lag spike on scan.
+    - Increased the Maximum Values for the settings.
