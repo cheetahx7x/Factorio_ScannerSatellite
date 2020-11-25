@@ -9,3 +9,5 @@ Date: 2020.11.24
   Modding:
     - Removed the lag spike on scan.
     - Increased the Maximum Values for the settings.
+  Bugs:
+    - Scan radius not a perfect square anymore.
